@@ -1,2 +1,2 @@
 # ozone-google-trends
- Automated Data Collection from Google Trends 
+ Automated Data Collection for Google Trends 
